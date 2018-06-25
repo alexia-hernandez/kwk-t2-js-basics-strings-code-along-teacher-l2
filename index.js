@@ -10,7 +10,7 @@ const shortGreeting = `Welcome, ${currentUser}`;
 
 'Alexia Hernandez'.slice(0,3);
 
-currentUser.slice(0,1)
+currentUser.slice(0, 1);
 
 const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 
